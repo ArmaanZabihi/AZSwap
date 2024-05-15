@@ -28,17 +28,21 @@ This image demonstrates the process of connecting a MetaMask wallet. When the us
 ## <span style="font-size: 1.5em;">Getting Started</span>
 Follow these steps to set up and run the AZSwap application:
 
-1. **Clone the Repository**
+1. **Insert API Key from Moralis**
+   ```bash
+2. **Clone the Repository**
    ```bash
    git clone [repository URL]
    cd AZSwap
-2. **Start the Frontend**
+3. **Start the Frontend**
    ```bash
    cd dexStarter
    npm install
    mpm start
-3. **Star the Backend**
+4. **Star the Backend**
    ```bash
    cd dexBack
    npm install
    node index.js
+
+

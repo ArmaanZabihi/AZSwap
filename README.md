@@ -28,8 +28,8 @@ This image demonstrates the process of connecting a MetaMask wallet. When the us
 ## <span style="font-size: 1.5em;">Getting Started</span>
 Follow these steps to set up and run the AZSwap application:
 
-1. **Insert API Key from Moralis**
-   ```bash
+1. **Insert API Key from Moralis.io**
+   
 2. **Clone the Repository**
    ```bash
    git clone [repository URL]

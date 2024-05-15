@@ -31,3 +31,13 @@ Follow these steps to set up and run the AZSwap application:
    ```bash
    git clone [repository URL]
    cd AZSwap
+2. **Start the Frontend**
+   ```bash
+   cd dexStarter
+   npm install
+   mpm start
+3. **Star the Backend**
+   ```bash
+   cd dexBack
+   npm install
+   node index.js
